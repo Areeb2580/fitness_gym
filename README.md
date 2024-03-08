@@ -2,6 +2,9 @@
 ## Team name:
 hacker_racker
 
+## category:
+Fitness and sport
+
 ## team members:
 Areeb Ali - 12312624 - +91 8279972945     
 Palki - 12313813 - +91 9817970145      
